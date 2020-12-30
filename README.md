@@ -1,4 +1,4 @@
-# shopp
+# Vendor
 
 A new Flutter application.
 
