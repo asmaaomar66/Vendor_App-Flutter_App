@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184481729066",
+    "firebase_url": "https://shooop-2dd1d.firebaseio.com",
+    "project_id": "shooop-2dd1d",
+    "storage_bucket": "shooop-2dd1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184481729066:android:830fb9642bfeebde3f1153",
+        "android_client_info": {
+          "package_name": "com.shopping.shopp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184481729066-mt0dism4jc2m51nl18apo7nev5e41tt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvqzm7Xd-w39bQULTNxovrcy3gF7D2jMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184481729066-mt0dism4jc2m51nl18apo7nev5e41tt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
